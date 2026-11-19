@@ -9,7 +9,7 @@
 Python · PySpark · Spark SQL · Delta Lake · Databricks
 
 ## Results
-- Processed 9 files / ~100K orders / 1,351,568 rows in total
+- Processed 9 files / ~100K orders / 1,550,922 rows in total
 - 3 data-quality checks; 0 bad rows quarantined
 - Incremental MERGE load: full rebuild 2.5 s, one-month MERGE 3.4 s (small dataset); rerun added 0 duplicates
 - Finding: State AL has the highest late-delivery rate at 20.8%
